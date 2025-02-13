@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Mold Schedule.exe" version="1.0.0.8" publicKeyToken="9c8dae319fa2bf4c" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="2.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Mold Schedule" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Mold Schedule.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Mold Schedule.exe" size="3878896">
+      <assemblyIdentity name="Mold Schedule" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>nVfNa1XzLQlZ3iI+rMPzsR1Kx1aeVGidla5fJRgoRO4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="2.ico" size="21954">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>iGCSms/0pCgOXPnJdBqHLWKLC2Ga1BfvtsMYA4GWD4Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Mold Schedule.exe.config" size="188">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>VDy5/VrQni+RSOb/6uEMWMc6bGQEaa2e2UdeWG+KK1I=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=TMPMEXICO\FridaGutierrez" issuerKeyHash="caa8117a1e01450604d572813dd1ea6a8b86b070" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>0nARzP6k1NSur2LTYT71PTGmCjfRWcZEyuJ3BfAIxuw=</DigestValue></Reference></SignedInfo><SignatureValue>b3hub0grTDWI4Zq2YNGLR/WALswsWb3zudVfYmx3abWkWGhUU/NSYgp0leW5vR7MLltoeNAL28CbKN7EHrKz3w653x6JilRIerL1c1fG4nTZYEElZGr0XtgOmzdDYbsER2NpJCvwvbW+/aAS9BUxpx7VjokTaAsNTyobX+Scr2g=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wKqIt0ol7QNGV9BW9vGuZtFvSAm1BehJiFTLq4wLU8Yrsr2CwjBdVBftYmqUdPWCL6mRad/1cgC65WGVExJnDQxgys1e9IzjnHVvnvf9bsMI2HZE45uinxZ+HgWUUVWXC77KjaAXqCoF1mM//Qi7/AoID3GE30QeUNYm8ALli+U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ecc608f00577e2ca44c659d1370aa6313df53e61d362afaed4d4a4fecc1170d2" Description="" Url=""><as:assemblyIdentity name="Mold Schedule.exe" version="1.0.0.8" publicKeyToken="9c8dae319fa2bf4c" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=TMPMEXICO\FridaGutierrez</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/DV59b8ZADse34+etA+X4lFHxobZOrWF5vsMFHs6IsY=</DigestValue></Reference></SignedInfo><SignatureValue>a5OxvPS4HGKjzNgKocuLBvc0LzR9hyhUEhsTGnbUQ07qO+2mBbSFWCreqA95zJXFlKwzYVO6bazIthaQ/lHZYyyjLBe3Ld7s3AySyZLDbDGIN7aRqIClniezFm7SlgF7KyErTzYXCEf4vnmdDbseXTxMxP3VdUBGh5gSDTWp6KY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wKqIt0ol7QNGV9BW9vGuZtFvSAm1BehJiFTLq4wLU8Yrsr2CwjBdVBftYmqUdPWCL6mRad/1cgC65WGVExJnDQxgys1e9IzjnHVvnvf9bsMI2HZE45uinxZ+HgWUUVWXC77KjaAXqCoF1mM//Qi7/AoID3GE30QeUNYm8ALli+U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB+TCCAWKgAwIBAgIQLLhJR6dR6p5Fc7KiITF17TANBgkqhkiG9w0BAQsFADA7MTkwNwYDVQQDHjAAVABNAFAATQBFAFgASQBDAE8AXABGAHIAaQBkAGEARwB1AHQAaQBlAHIAcgBlAHowHhcNMjQxMDI5MjExODA1WhcNMjUxMDMwMDMxODA1WjA7MTkwNwYDVQQDHjAAVABNAFAATQBFAFgASQBDAE8AXABGAHIAaQBkAGEARwB1AHQAaQBlAHIAcgBlAHowgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMCqiLdKJe0DRlfQVvbxrmbRb0gJtQXoSYhUy6uMC1PGK7K9gsIwXVQX7WJqlHT1gi+pkWnf9XIAuuVhlRMSZw0MYMrNXvSM45x1b573/W7DCNh2ROObop8Wfh4FlFFVlwu+yo2gF6gqBdZjP/0Iu/wKCA9xhN9EHlDWJvAC5YvlAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAqwesfmSXsHKhrTGfkmi1KOuEr1cwuJugpxZm23OPVvGcsp7PctZleA3mLlZqK2C+FxN/gPw+vwh2KjDVIeo/JqzhkthAUO4PtfA0pi628pLyjlCVLWZ19n+sVQ8cHx9XJkGqZxOYa6/VhMTZ/lN040MigbWDaZcQr7NNFV5e0kc=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

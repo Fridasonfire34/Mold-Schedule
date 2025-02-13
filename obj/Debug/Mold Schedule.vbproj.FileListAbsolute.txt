@@ -1,0 +1,29 @@
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\bin\Debug\Mold Schedule.exe.config
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\bin\Debug\Mold Schedule.exe
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\bin\Debug\Mold Schedule.pdb
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\bin\Debug\Mold Schedule.xml
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold Schedule.vbproj.AssemblyReference.cache
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold_Schedule.Form1.resources
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold_Schedule.Resources.resources
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold Schedule.vbproj.GenerateResource.cache
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold Schedule.vbproj.CoreCompileInputs.cache
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold Schedule.exe
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold Schedule.xml
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold Schedule.pdb
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold_Schedule.New_Job.resources
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold_Schedule.Jobs.resources
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold_Schedule.Edit_Jobs.resources
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold_Schedule.PasswordForm.resources
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold_Schedule.PanelsQty.resources
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold_Schedule.Mold_Walls.resources
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold_Schedule.MSGBOX_Molds.resources
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold_Schedule.Molds_Corners.resources
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold_Schedule.FCMold.resources
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold_Schedule.TGMold.resources
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold_Schedule.GuillotineM.resources
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\bin\Debug\Mold Schedule.exe.manifest
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\bin\Debug\Mold Schedule.application
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold Schedule.exe.manifest
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold Schedule.application
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold_Schedule.FCT_Mold.resources
+C:\Users\FridaGutierrez\source\repos\Mold Schedule\Mold Schedule\obj\Debug\Mold_Schedule.FCTMold.resources
